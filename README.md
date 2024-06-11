@@ -3,12 +3,22 @@
 ## Announcement
 
 ```markdown
+Context:
+
+Selected observations from previous coding dojos.
+* What did not work out so well and why?
+* How can we improve?
+
+Keywords: primitive obsession, communication, mental models, abstractions, tdd, guiding tests, ...
+
+---
+
 Title: Communication Pitfalls
 Subtitle: And how to overcome them? ;)
 
 Abstract:
 
-Based on a few observations from previous coding dojos, I want to 
+Based on a few observations from previous coding dojos, I want to
 facilitate a discussion about communication and mental models.
 
 We focus on the following questions:
@@ -16,7 +26,7 @@ We focus on the following questions:
 * What is the difference between asserting values vs. behavior?
 * How types and classes, or more generally, abstractions and domain models
   support alignment?
-* How test-driven development, and in particular guiding tests or outside-in 
+* How test-driven development, and in particular guiding tests or outside-in
   approaches allow us to express our intent (before diving into details).
 
 Langton's ant and the coding dojo code will again serve as specific, hands-on
