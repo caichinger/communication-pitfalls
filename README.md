@@ -36,4 +36,36 @@ Links:
 * https://en.wikipedia.org/wiki/Langton%27s_ant
 * https://github.com/PyUGAT/coding-dojo-2024-03-21
 * https://github.com/PyUGAT/coding-dojo-2024-05-20
+
+```
+
+
+## Follow Up Discussion
+
+How can we support collaborative development through an
+expressive guiding test?
+
+We aim for a guiding test that facilitates a fruitful
+discussion.
+
+* https://en.wikipedia.org/wiki/Wiio%27s_laws
+* https://woodyzuill.com/
+* https://www.obeythetestinggoat.com/
+
+
+## Setup
+
+Install requirements:
+```console
+pip install --requirement requirements.txt
+```
+
+Run tests:
+```console
+# run tests
+pytest
+# run tests continuously
+ptw .
+# or using a unix utility
+ls *.py | entr pytest
 ```
